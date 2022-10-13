@@ -48,6 +48,6 @@ seguir apoyandome mas en la investigacionn de nuevas buenas practicas para hacer
 
 <h1>Expresiones de gratitud</h1>
 
-- gradezco a el conpañero Juan Camilo y la compañera Yulani por ayudarme a resolver dudad
+- gradezco a el conpañero Juan Camilo y la compañera Yulani por ayudarme a resolver dudas
 
 
