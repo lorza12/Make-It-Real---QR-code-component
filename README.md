@@ -46,4 +46,8 @@ seguir apoyandome mas en la investigacionn de nuevas buenas practicas para hacer
 
 * [MaterialApoyo](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
+<h1>Expresiones de gratitud</h1>
+
+- gradezco a el conpañero Juan Camilo y la compañera Yulani por ayudarme a resolver dudad
+
 
