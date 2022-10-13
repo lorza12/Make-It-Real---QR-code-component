@@ -3,11 +3,15 @@
 
 
 
-construir este componente de la tarjeta y lograr que se parezca lo más posible al diseño.
+<h1>Reto</h1>
 
-- tarea 1 : construir una tarjeta para mobile
+Su desafío es construir este componente de código QR y lograr que se parezca lo más posible al diseño.
 
-- Tarea 2 : construir una tarjeta para para la web
+Puedes usar cualquier herramienta que te guste para ayudarte a completar el desafío. Entonces, si tienes algo que te gustaría practicar, no dudes en intentarlo.
+
+Tus usuarios deberían poder:
+
+- Ver el diseño óptimo para el componente según el tamaño de pantalla de su dispositivo
 
 ![QR](https://user-images.githubusercontent.com/115027137/195657075-e5811f35-5385-48f7-b8df-232ec28e23de.png)
 
